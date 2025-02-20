@@ -1,10 +1,7 @@
 #POKEMON GO CASE
 #TEAM 18
-#Charles DE LA RIVIERE
-#Marie MASSERAN
 #Gagan AGARWAL
 #Clara JOUY
-#Xavier MELLEVILLE
 
 
 ########################## LAST UPDATES ########################## 
